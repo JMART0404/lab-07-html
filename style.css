@@ -1,0 +1,101 @@
+p {
+  color: red;
+  background: white;
+  border-style: solid;
+  border-width: 5px;
+  font-family: 'Germania One', cursive;
+  padding-left: 10px;
+  text-align: center;
+}
+
+body {
+  background: white url(http://danieltsadok.net/teaching/citytech/spring2019/resources/img/face.png) repeat top right;
+}
+
+ul {
+  background: white;
+  border-style: solid;
+  border-width: 5px;
+  font-family: 'Germania One', cursive;
+  text-align: center;
+  list-style-type: none;
+  float: none;
+
+}
+
+ol {
+  background: white;
+  border-style: solid;
+  border-width: 5px;
+  font-family: 'Germania One', cursive;
+  text-align: center;
+  list-style-type: upper-roman;
+}
+
+p1 {
+  background: white;
+  border-style: solid;
+  border-width: 5px;
+  font-family: 'Germania One', cursive;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+
+h1 {
+  background: white;
+  font-family: 'Press Start 2P', cursive;
+  border-style: dashed;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+
+}
+
+h2 {
+  background: white;
+  font-family: 'Press Start 2P', cursive;
+  border-style: dashed;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+
+}
+
+table {
+    background: white;
+    font-family: 'Faster One', cursive;
+    border-style: ridge;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+a:link{
+  text-decoration: none;
+
+}
+
+a:hover {
+  background: red;
+
+}
+
+a {
+  color: black
+
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  
+}
